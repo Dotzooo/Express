@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "58ee6e8d-7163-4bc7-b629-59aa55616a18",
-		"name": "Posts(Express)",
+		"name": "Express",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -40,7 +40,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\": \"Adam\",\r\n    \"tags\": \"新手發文\",\r\n    \"type\": \"group\",\r\n    \"image\": \"\",\r\n    \"content\": \"安安我測試一下能不能發文\",\r\n    \"likes\": 999,\r\n    \"comments\": 0\r\n}"
+					"raw": "{\r\n    \"name\": \"Adam\",\r\n    \"tags\": \"新手發文\",\r\n    \"type\": \"group\",\r\n    \"image\": \"\",\r\n    \"content\": \"WELCOME TO MY BORAD\",\r\n    \"likes\": 999,\r\n    \"comments\": 0\r\n}"
 				},
 				"url": {
 					"raw": "{{url}}/posts",
